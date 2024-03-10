@@ -14,3 +14,9 @@ Live demo: [Visit here](https://thegreatraj01.github.io/30-day-Javascript-projec
 Project repo: [Visit here](https://github.com/thegreatraj01/30-day-Javascript-projects-DAY-2-ANALOG-CLOCK)
 
 Live demo: [Visit here](https://thegreatraj01.github.io/30-day-Javascript-projects-DAY-2-ANALOG-CLOCK/)
+
+## DAY-3 PLAYING WITH CSS VARIABLES
+
+Project repo: [Visit here](https://github.com/thegreatraj01/30-day-Javascript-projects--Playing-with-CSS-Variables-and-JS))
+
+Live demo: [Visit here](https://thegreatraj01.github.io/30-day-Javascript-projects--Playing-with-CSS-Variables-and-JS/)
