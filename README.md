@@ -20,3 +20,8 @@ Live demo: [Visit here](https://thegreatraj01.github.io/30-day-Javascript-projec
 Project repo: [Visit here](https://github.com/thegreatraj01/30-day-Javascript-projects--Playing-with-CSS-Variables-and-JS)
 
 Live demo: [Visit here](https://thegreatraj01.github.io/30-day-Javascript-projects--Playing-with-CSS-Variables-and-JS/)
+
+## DAY-4 ARRAY CARDIO DAY 1
+Project repo: [Visit here](https://github.com/thegreatraj01/30-day-Javascript-projects-DAY-4-Array-Cardio-Day-1)
+
+
