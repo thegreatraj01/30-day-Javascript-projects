@@ -26,6 +26,7 @@ Project repo: [Visit here](https://github.com/thegreatraj01/30-day-Javascript-pr
 
 ## DAY-5 ARRAY FLEX PANELS
 Project repo: [Visit here](https://github.com/thegreatraj01/30-day-Javascript-projects-DAY-5/)
+
 Live demo: [Visit here](https://thegreatraj01.github.io/30-day-Javascript-projects-DAY-5/)
 
 
