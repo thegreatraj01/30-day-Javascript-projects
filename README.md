@@ -29,4 +29,8 @@ Project repo: [Visit here](https://github.com/thegreatraj01/30-day-Javascript-pr
 
 Live demo: [Visit here](https://thegreatraj01.github.io/30-day-Javascript-projects-DAY-5/)
 
+## DAY-6 TYPE AHEAD 
+Project repo: [visti here](https://github.com/thegreatraj01/30-day-Javascript-projects-DAY-6--type-ahead)
+
+Live demo: [visit here](https://thegreatraj01.github.io/30-day-Javascript-projects-DAY-6--type-ahead/)
 
