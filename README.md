@@ -34,3 +34,5 @@ Project repo: [visti here](https://github.com/thegreatraj01/30-day-Javascript-pr
 
 Live demo: [visit here](https://thegreatraj01.github.io/30-day-Javascript-projects-DAY-6--type-ahead/)
 
+## DAY-7 ARRAY CARDIO DAY 2
+Project repo: [Visit here](https://gist.github.com/thegreatraj01/0ef741944061f90790b5d09ff89157ad)
