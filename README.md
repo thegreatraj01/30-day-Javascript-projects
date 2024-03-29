@@ -45,3 +45,7 @@ Live demo [Visit here](https://thegreatraj01.github.io/30-day-Javascript-project
 ## DAY 9 CONSOLE TRICKS 
 Project repo [Visit here](https://gist.github.com/thegreatraj01/4724b472b5fff6bbf85f4d75e138ce2c)
 
+## DAY 10 Hold Shift to Check Multiple Checkboxes
+Project repo [Visit here](https://github.com/thegreatraj01/29-03-2024-DAY-10-HOLS-AND-SHIFT)
+
+Live demo [Visit here](https://thegreatraj01.github.io/29-03-2024-DAY-10-HOLS-AND-SHIFT/)
