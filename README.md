@@ -36,3 +36,8 @@ Live demo: [visit here](https://thegreatraj01.github.io/30-day-Javascript-projec
 
 ## DAY-7 ARRAY CARDIO DAY 2
 Project repo: [Visit here](https://gist.github.com/thegreatraj01/0ef741944061f90790b5d09ff89157ad)
+
+## DAY 8 HTML CANVAS 
+Project repo [Visit here](https://github.com/thegreatraj01/30-day-Javascript-projects-DAY-8-Html-Canvas)
+
+Live demo [Visit here](https://thegreatraj01.github.io/30-day-Javascript-projects-DAY-8-Html-Canvas)
