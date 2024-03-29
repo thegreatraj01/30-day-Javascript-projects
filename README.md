@@ -41,3 +41,7 @@ Project repo: [Visit here](https://gist.github.com/thegreatraj01/0ef741944061f90
 Project repo [Visit here](https://github.com/thegreatraj01/30-day-Javascript-projects-DAY-8-Html-Canvas)
 
 Live demo [Visit here](https://thegreatraj01.github.io/30-day-Javascript-projects-DAY-8-Html-Canvas)
+
+## DAY 9 CONSOLE TRICKS 
+Project repo [Visit here](https://gist.github.com/thegreatraj01/4724b472b5fff6bbf85f4d75e138ce2c)
+
